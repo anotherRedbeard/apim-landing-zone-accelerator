@@ -66,7 +66,7 @@ var serverfarms_appsvcplanAPIMCSBackend_location  = location
 // - SKU name
 var serverfarms_appsvcplanAPIMCSBackend_skuName  = 'P2v2' // dev - 'B1'
 // - SKU tier
-var serverfarms_appsvcplanAPIMCSBackend_skuTier  = 'PremiumV2' // dev - 'Basic'
+var serverfarms_appsvcplanAPIMCSBackend_skuTier  = 'Basic' // dev - 'Basic' premium - 'PremiumV2'
 // - SKU size
 var serverfarms_appsvcplanAPIMCSBackend_skuSize  = 'P2v2' // dev - 'B1'
 // - SKU family
