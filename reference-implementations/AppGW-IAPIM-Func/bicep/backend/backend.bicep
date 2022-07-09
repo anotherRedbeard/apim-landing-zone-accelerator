@@ -246,7 +246,7 @@ resource sites_funcappAPIMCSBackendMicroServiceA_name_resource 'Microsoft.Web/si
     siteConfig: {
       numberOfWorkers: 1
       linuxFxVersion: 'dotnet|3.1'
-      alwaysOn: true
+      alwaysOn: false
       http20Enabled: false
       appSettings: [
         {
